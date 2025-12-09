@@ -19,6 +19,6 @@ https://subhmishra9930-cpu.github.io/Prodigy_WD_01/
 HTML5, CSS3, Vanilla JavaScript
 
 # Author
-Subh Kumar Mishra — Web Development Intern @Prodigy InfoTech
-<br>Github: https://github.com/subhmishra9930-cpu
-<br>Linkedin: https://www.linkedin.com/in/subh-kumar-mishra-76a635374/
+Subh Kumar Mishra — Web Development Intern @Prodigy InfoTech<br>
+Github: https://github.com/subhmishra9930-cpu<br>
+Linkedin: https://www.linkedin.com/in/subh-kumar-mishra-76a635374/
