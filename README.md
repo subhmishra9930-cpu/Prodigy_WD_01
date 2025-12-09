@@ -6,14 +6,14 @@ This project is designed with a professional UI/UX approach, suitable for intern
 https://subhmishra9930-cpu.github.io/Prodigy_WD_01/
 
 # 🚀 Features
-✅ Fully responsive design (Mobile, Tablet & Desktop)
-✅ Clean and modern UI
-✅ Smooth navigation between sections
-✅ Functional navigation menu
-✅ Separate sections: Hero, About, Services, Contact
-✅ Image-based service cards
-✅ Easy to customize
-✅ Beginner-friendly code structure
+ 1. Fully responsive design (Mobile, Tablet & Desktop)
+ 2. Clean and modern UI
+ 3. Smooth navigation between sections
+ 4. Functional navigation menu
+ 5. Separate sections: Hero, About, Services, Contact
+ 6. Image-based service cards
+ 7. Easy to customize
+ 8. Beginner-friendly code structure
 
 # Technology
 HTML5, CSS3, Vanilla JavaScript
