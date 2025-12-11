@@ -1,9 +1,9 @@
-# Prodigy_WD_01--Responsive Landing Page
+# PRODIGY_WD_01--Responsive Landing Page
 A modern, fully responsive landing page built using HTML, CSS, and JavaScript.
 This project is designed with a professional UI/UX approach, suitable for internship submissions, portfolios, and practice projects.
 
 # Live demo:- 
-https://subhmishra9930-cpu.github.io/Prodigy_WD_01/
+https://subhmishra9930-cpu.github.io/PRODIGY_WD_01/
 
 # 🚀 Features
  1. Fully responsive design (Mobile, Tablet & Desktop)
